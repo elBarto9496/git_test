@@ -4,4 +4,5 @@
 {
 int a,b;
 printf("SUM of the two numbers is: ", a+b);
+printf("Hey what's up?");
 }
